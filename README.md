@@ -2,7 +2,7 @@
 课程辅助系统
 
 
-chutou           视频、评测、期末
+chutou.com           视频、评测、期末
 
 
 gzbjyzjxjy.cn    视频、评测
